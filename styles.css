@@ -677,7 +677,7 @@ a.hero-cta-alt:hover {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #4caf50;
+  color: #1100ff;
   font-size: 3rem;
   text-align: center;
 }
@@ -1017,7 +1017,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: #4caf50;
+  color: #1100ff;
 }
 
 .middot-divider {
@@ -1270,11 +1270,11 @@ article .article-metadata {
 
 .experience .m-2 .border,
 .experience .col.border-right {
-  border-color: #4caf50 !important;
+  border-color: #1100ff !important;
 }
 
 .experience .m-2 .border.exp-fill {
-  background-color: #4caf50 !important;
+  background-color: #1100ff !important;
 }
 
 /*************************************************
@@ -1636,13 +1636,13 @@ a.badge:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: #4caf50;
-  background: #4caf50;
+  border-color: #1100ff;
+  background: #1100ff;
 }
 
 .btn-outline-primary {
-  border-color: #4caf50;
-  color: #4caf50;
+  border-color: #1100ff;
+  color: #1100ff;
 }
 
 .btn-primary:hover,
@@ -1650,7 +1650,7 @@ a.badge:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #4caf50;
+  background: #1100ff;
 }
 
 .btn-outline-light:hover,
@@ -1663,8 +1663,8 @@ a.badge:hover {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #4caf50;
-  border-color: #4caf50;
+  background-color: #1100ff;
+  border-color: #1100ff;
 }
 
 .dark .btn-outline-primary:not(:disabled):not(.disabled).active,
@@ -1675,8 +1675,8 @@ a.badge:hover {
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #4caf50;
-  border-color: #4caf50;
+  background-color: #1100ff;
+  border-color: #1100ff;
 }
 
 .dark .btn-outline-primary:hover {
@@ -1726,7 +1726,7 @@ a.badge:hover {
 }
 
 .navbar-light {
-  background: #4caf50 !important;
+  background: #1100ff !important;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1793,7 +1793,7 @@ nav#navbar-main li.nav-item {
 }
 
 .dropdown-menu {
-  background-color: #4caf50 !important;
+  background-color: #1100ff !important;
 }
 
 .dropdown-menu > li > a {
@@ -1810,13 +1810,13 @@ nav#navbar-main li.nav-item {
 .dropdown-menu>li>a:hover {
   color: #1b5e20;
   text-decoration: none;
-  background-color: #4caf50;
+  background-color: #1100ff;
 }
 
 .dropdown-menu > .active,
 .dropdown-menu > .active:focus,
 .dropdown-menu > .active:hover {
-  color: #4caf50;
+  color: #1100ff;
   text-decoration: none;
   background-color: #1b5e20;
   outline: 0;
@@ -1827,7 +1827,7 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav>.open>a:hover,
 .navbar-light .navbar-nav>.open>a:visited {
   color: #fff !important;
-  background-color: #4caf50 !important;
+  background-color: #1100ff !important;
 }
 
 .navbar-light .navbar-brand {
@@ -2080,7 +2080,7 @@ div.alert a {
 }
 
 .docs-search .form-control:focus {
-  border-color: #4caf50;
+  border-color: #11000ff;
   box-shadow: 0 0 0 3px #80e27e;
 }
 
@@ -2146,7 +2146,7 @@ div.alert a {
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: #4caf50;
+  color: #1100ff;
   background-color: transparent;
 }
 
@@ -2155,7 +2155,7 @@ div.alert a {
 .docs-toggle {
   line-height: 1;
   font-size: 1.2rem;
-  color: #4caf50;
+  color: #1100ff;
   background-color: transparent;
 }
 
@@ -2272,7 +2272,7 @@ ul.toc-top {
 
 #TableOfContents li a:hover,
 .toc-top li a:hover {
-  color: #4caf50;
+  color: #1100ff;
   text-decoration: none;
 }
 
@@ -2285,7 +2285,7 @@ ul.toc-top {
 }
 
 .anchorjs-link:hover {
-  color: #4caf50;
+  color: #1100ff;
   text-decoration: none;
 }
 
@@ -2310,7 +2310,7 @@ body.dark,
 
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
-  border-color: #4caf50;
+  border-color: #1100ff;
   box-shadow: 0 0 0 .2rem #087f23;
 }
 
@@ -2343,7 +2343,7 @@ body.dark,
 }
 
 .dark ul.share li a {
-  background-color: #4caf50;
+  background-color: #1100ff;
 }
 
 .dark table table {
@@ -2396,7 +2396,7 @@ body.dark,
 }
 
 .dark .card h4 a {
-  color: #4caf50;
+  color: #1100ff;
   border-bottom: solid 1px transparent;
 }
 
